@@ -1,0 +1,9 @@
+
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(•Âû³úÿÿÿÿ8ß¢¢˜ï.
+H
+java:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8…£‘˜ï.
+Q
+java:S1854"5Remove this useless assignment to local variable "s".(ã·.8Õü˜ï.
+0
+java:S1220""Move this file to a named package.

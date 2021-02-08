@@ -1,0 +1,26 @@
+# Project exclude paths
+/best-time-to-buy-and-sell-stock/target/
+/contains-duplicate/target/
+/first-unique-character-in-a-string/target/
+/fizz-buzz/target/
+/implement-strstr/target/
+/majority-element/target/
+/maximum-product-subarray/target/
+/maximum-subarray/target/
+/minesweeper/target/
+/missing-number/target/
+/n-queens/target/
+/n-queens-II/target/
+/number-of-1-bits/target/
+/pascal-triangle/target/
+/permutations/target/
+/plus-one/target/
+/remove-duplicates-from-sorted-array/target/
+/reverse-bits/target/
+/reversestring/target/
+/snapshot-array/target/
+/sqrt/target/
+/subset-generation/target/
+/valid-anagram/target/
+/valid-palindrome/target/
+/valid-parentheses/target/

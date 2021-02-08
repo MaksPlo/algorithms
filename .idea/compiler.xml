@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="valid-anagram" />
+        <module name="valid-palindrome" />
+        <module name="plus-one" />
+        <module name="permutations" />
+        <module name="pascal-triangle" />
+        <module name="first-unique-character-in-a-string" />
+        <module name="contains-duplicate" />
+        <module name="number-of-1-bits" />
+        <module name="sqrt" />
+        <module name="subset-generation" />
+        <module name="minesweeper" />
+        <module name="maximum-product-subarray" />
+        <module name="remove-duplicates-from-sorted-array" />
+        <module name="majority-element" />
+        <module name="n-queens" />
+        <module name="add-two-numbers" />
+        <module name="reversestring" />
+        <module name="snapshot-array" />
+        <module name="fizz-buzz" />
+        <module name="valid-parentheses" />
+        <module name="reverse-bits" />
+        <module name="maximum-subarray" />
+        <module name="implement-strstr" />
+        <module name="missing-number" />
+        <module name="best-time-to-buy-and-sell-stock" />
+        <module name="n-queens-II" />
+        <module name="single-number" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pascal's-triangle" target="1.5" />
+      <module name="sobes" target="1.5" />
+      <module name="sqrt(x)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

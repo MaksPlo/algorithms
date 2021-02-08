@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ru.pms</groupId>
+    <artifactId>algorithms</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>valid-parentheses</module>
+        <module>subset-generation</module>
+        <module>minesweeper</module>
+        <module>remove-duplicates-from-sorted-array</module>
+        <module>maximum-subarray</module>
+        <module>plus-one</module>
+        <module>snapshot-array</module>
+        <module>implement-strstr</module>
+        <module>fizz-buzz</module>
+        <module>pascal-triangle</module>
+        <module>reverse-string</module>
+        <module>reversestring</module>
+        <module>first-unique-character-in-a-string</module>
+        <module>valid-palindrome</module>
+        <module>valid-anagram</module>
+        <module>majority-element</module>
+        <module>best-time-to-buy-and-sell-stock</module>
+        <module>contains-duplicate</module>
+        <module>missing-number</module>
+        <module>permutations</module>
+        <module>sobes</module>
+        <module>n-queens</module>
+        <module>n-queens-II</module>
+        <module>number-of-1-bits</module>
+        <module>reverse-bits</module>
+        <module>add-two-numbers</module>
+        <module>single-number</module>
+        <module>sqrt(x)</module>
+        <module>sqrt</module>
+        <module>maximum-product-subarray</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.7.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+
+</project>
